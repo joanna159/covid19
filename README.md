@@ -7,8 +7,16 @@ Schenkt Schülerinnen und Schülern Duden Lernattack für 2 Monate.
 Bis zum 31.03.2020 gültig.
 
 https://learnattack.de/corona
----
 
+---
+https://twitter.com/hessophanes_/status/1239099719441428480
+
+---
+Kami
+
+https://blog.kamiapp.com/remote-learning-with-kami-during-school-shutdowns/
+
+---
 https://support.simpleclub.com/de/articles/3793519-schulschliessung-wegen-corona-virus
 
 ----------------------------------------------------
@@ -32,22 +40,13 @@ Freizeitgestaltung
 
 Pornhub schenkt Leuten aus Italien vorerst einen kostenlosen Premium Account. 
 Alles weitere findet ihr selbst raus. ;)
+
 ---
 Online spielen:
 
 https://twitter.com/JackPackTV/status/1239199850924781568
 
 ----------------------------------------------------
-Kinder unterrichten
-
-https://twitter.com/hessophanes_/status/1239099719441428480
----
-Kami
-
-https://blog.kamiapp.com/remote-learning-with-kami-during-school-shutdowns/
-
-----------------------------------------------------
-
 Mobilfunkanbieter
 
 https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response
