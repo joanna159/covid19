@@ -1,7 +1,7 @@
 # covid19
 How to covid. Was tun, wenn man zuhause sitzt?
 
-Lernen
+- Lernen
 
 Schenkt Schülerinnen und Schülern Duden Lernattack für 2 Monate.
 Bis zum 31.03.2020 gültig.
@@ -20,9 +20,9 @@ https://blog.kamiapp.com/remote-learning-with-kami-during-school-shutdowns/
 https://support.simpleclub.com/de/articles/3793519-schulschliessung-wegen-corona-virus
 
 ----------------------------------------------------
-Mitmachen
+**Mitmachen**
 
-Beatmungsgeräte
+- Beatmungsgeräte
 
 https://www.replacing-luck.de/ -> https://www.respi.de
 
