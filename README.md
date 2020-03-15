@@ -57,3 +57,8 @@ https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response
 Videomeetings
 
 https://help.webex.com/de-de/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response
+
+----------------------------------------------------
+Igor Levit streamt jeden Abend live ein Konzert
+
+https://twitter.com/igorpianist
