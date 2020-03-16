@@ -3,6 +3,9 @@ How to covid. Was tun, wenn man zuhause sitzt?
 
 ## Lernen
 
+* Hier haben sich schon andere Mühe gemacht etwas zusammenzustellen
+  * http://scienceblogs.de/meertext/2020/03/16/corona-homeschooling-link-sammlung-und-ideen-fuer-unterrichtsersatz-zu-hause/
+
 * Schenkt Schülerinnen und Schülern Duden Lernattack für 2 Monate.
 * Bis zum 31.03.2020 gültig.
   * https://learnattack.de/corona
