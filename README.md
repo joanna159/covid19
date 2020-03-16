@@ -40,8 +40,13 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Online spielen
   * https://twitter.com/JackPackTV/status/1239199850924781568
 
-* Igor Levit streamt jeden Abend live ein Konzert
+* Igor Levit streamt jeden Abend live ein Konzert per Twitter Livestream ca. ab 18/19 Uhr
    * https://twitter.com/igorpianist
+
+* Dienstags & Donnerstags um 19 Uhr, 1/2 Stunde lang Online-Vortragreihe Faszination Astrologie Online
+  * https://www.youtube.com/watch?v=ztvg7jjSBrI
+  * http://www.haus-der-astronomie.de/faszi-astro-online
+  * https://twitter.com/HdAstro
 
 ----------------------------------------------------
 ## Mobilfunkanbieter
