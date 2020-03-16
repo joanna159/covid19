@@ -36,8 +36,8 @@ How to covid. Was tun, wenn man zuhause sitzt?
 ----------------------------------------------------
 ## Freizeitgestaltung
 
-* Pornhub schenkt Leuten aus Italien vorerst einen kostenlosen Premium Account. 
-* Alles weitere findet ihr selbst raus. ;)
+* Pornhub schenkt Leuten aus Italien vorerst einen kostenlosen Premium Account
+  * Alles weitere findet ihr selbst raus. ;)
 
 
 * Online spielen
@@ -46,7 +46,7 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Igor Levit streamt jeden Abend live ein Konzert per Twitter Livestream ca. ab 18/19 Uhr
    * https://twitter.com/igorpianist
 
-* Dienstags & Donnerstags um 19 Uhr, 1/2 Stunde lang Online-Vortragreihe Faszination Astrologie Online
+* Dienstags & Donnerstags um 19 Uhr, 1/2 Stunde lang Online-Vortragreihe Faszination Astronomie Online
   * https://www.youtube.com/watch?v=ztvg7jjSBrI
   * http://www.haus-der-astronomie.de/faszi-astro-online
   * https://twitter.com/HdAstro
