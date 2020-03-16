@@ -60,6 +60,10 @@ How to covid. Was tun, wenn man zuhause sitzt?
 ----------------------------------------------------
 ## Videomeetings
 
+* Freifunk Hamburg bietet einen kostenlosen Videokonferenzdienst an
+  * https://jitsi.hamburg.freifunk.net/
+  * https://twitter.com/FreifunkHH
+
 * Cisco Webex
   * https://help.webex.com/de-de/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response
 
