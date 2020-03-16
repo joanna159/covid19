@@ -25,6 +25,7 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Beatmungsgeräte
   * https://www.replacing-luck.de/ -> https://www.respi.de
   * https://twitter.com/ma__vo/status/1239119263522263040
+  * https://www.projectopenair.org/
 
 * Folding@home: Rechenpower zur Impfstoff-Entwicklung zur Verfügung zu stellen.
   * https://foldingathome.org/2020/02/27/foldinghome-takes-up-the-fight-against-covid-19-2019-ncov/
