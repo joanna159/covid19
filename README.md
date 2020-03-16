@@ -51,6 +51,11 @@ How to covid. Was tun, wenn man zuhause sitzt?
   * http://www.haus-der-astronomie.de/faszi-astro-online
   * https://twitter.com/HdAstro
 
+* Onlinebibliotheken
+  * Ggf. könnte es gerade schwierig sein sich jetzt einen Ausweis erstellen zu lassen
+  * https://twitter.com/Pertsch/status/1239205809831239680
+  
+  
 ----------------------------------------------------
 ## Mobilfunkanbieter
 
