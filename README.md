@@ -27,7 +27,7 @@ How to covid. Was tun, wenn man zuhause sitzt?
   * https://twitter.com/ma__vo/status/1239119263522263040
   * https://www.projectopenair.org/
 
-* Folding@home: Rechenpower zur Impfstoff-Entwicklung zur Verfügung zu stellen.
+* Folding@home: Rechenpower zur Impfstoff-Entwicklung zur Verfügung zu stellen
   * https://foldingathome.org/2020/02/27/foldinghome-takes-up-the-fight-against-covid-19-2019-ncov/
 
 ----------------------------------------------------
@@ -37,7 +37,7 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Alles weitere findet ihr selbst raus. ;)
 
 
-* Online spielen:
+* Online spielen
   * https://twitter.com/JackPackTV/status/1239199850924781568
 
 * Igor Levit streamt jeden Abend live ein Konzert
@@ -50,8 +50,12 @@ How to covid. Was tun, wenn man zuhause sitzt?
   * https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response
 
 ----------------------------------------------------
-
 ## Videomeetings
 
 * Cisco Webex
   * https://help.webex.com/de-de/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response
+
+----------------------------------------------------
+## Informationen
+
+* https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile
