@@ -33,6 +33,9 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Folding@home: Rechenpower zur Impfstoff-Entwicklung zur Verfügung zu stellen
   * https://foldingathome.org/2020/02/27/foldinghome-takes-up-the-fight-against-covid-19-2019-ncov/
 
+* Videomeeting selbst aufsetzen (so wie Freifunk HH es unten gemacht hat)
+  * https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian/
+
 ----------------------------------------------------
 ## Freizeitgestaltung
 
