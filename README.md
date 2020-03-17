@@ -1,7 +1,7 @@
 # covid19
 How to covid. Was tun, wenn man zuhause sitzt?
 
-* [Wenn ihr stattdessen Informationen zu Covid-19, seinen Auswirkungen usw. sucht, dann fidnet ihr hier viele Informationen](https://github.com/cwoomi/cert-covid19)
+* [Wenn ihr stattdessen Informationen zu Covid-19, seinen Auswirkungen usw. sucht, dann findet ihr hier viele Informationen](https://github.com/cwoomi/cert-covid19)
 * [Tipps_haeusliche_Quarantaene](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile)
 
 ## Lernen
@@ -37,13 +37,15 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Dienstags & Donnerstags um 19 Uhr, 1/2 Stunde lang [Online-Vortragreihe Faszination Astronomie Online](https://www.youtube.com/watch?v=ztvg7jjSBrI)
   * http://www.haus-der-astronomie.de/faszi-astro-online
   * https://twitter.com/HdAstro
+* [Schmidtflyx – Die Streaming-Show](https://www.tivoli.de/programm-tickets/schmidtflyx-die-streaming-show/) aus dem hamburger Schmidt Theater, täglich 20.15 bis 21 Uhr  
 * Onlinebibliotheken (Ggf. könnte es gerade schwierig sein sich jetzt einen Ausweis erstellen zu lassen)
   * https://twitter.com/Pertsch/status/1239205809831239680
   
 ----
 
 ## Mobilfunkanbieter
-* [Telekom 14.03. für die nächsten 60 Tage](https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response)
+* Wahrscheinlich nicht für Deutschland - Klärung steht aus
+  * [Telekom 14.03. für die nächsten 60 Tage](https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response)
 
 ----
 
