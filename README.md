@@ -52,4 +52,5 @@ How to covid. Was tun, wenn man zuhause sitzt?
 ----
 
 ## Informationen
+* [Eine Liste mit vielen sinnvollen Informationen zu Covid-19 findet ihr hier](https://github.com/cwoomi/cert-covid19)
 * [Tipps_haeusliche_Quarantaene](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile)
