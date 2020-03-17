@@ -1,6 +1,9 @@
 # covid19
 How to covid. Was tun, wenn man zuhause sitzt?
 
+* [Wenn ihr stattdessen Informationen zu Covid-19, seinen Auswirkungen usw. sucht, dann fidnet ihr hier viele Informationen](https://github.com/cwoomi/cert-covid19)
+* [Tipps_haeusliche_Quarantaene](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile)
+
 ## Lernen
 * [Auf Scienceblogs haben sich schon andere Mühe gemacht etwas zusammenzustellen](http://scienceblogs.de/meertext/2020/03/16/corona-homeschooling-link-sammlung-und-ideen-fuer-unterrichtsersatz-zu-hause/)
 * Schenkt Schülerinnen und Schülern [Duden Lernattack](https://learnattack.de/corona) für 2 Monate (Bis zum 31.03.2020 gültig.)
@@ -47,10 +50,4 @@ How to covid. Was tun, wenn man zuhause sitzt?
 ## Videomeetings
 * [Freifunk Hamburg](https://twitter.com/FreifunkHH) bietet einen kostenlosen [Videokonferenzdienst](https://jitsi.hamburg.freifunk.net/) an
 * [Cisco Webex](https://help.webex.com/de-de/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)
-* [Videomeeting selbst aufsetzen](https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian/) (so wie Freifunk HH es unten gemacht hat)
-
-----
-
-## Informationen
-* [Eine Liste mit vielen sinnvollen Informationen zu Covid-19 findet ihr hier](https://github.com/cwoomi/cert-covid19)
-* [Tipps_haeusliche_Quarantaene](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile)
+* [Videomeeting selbst aufsetzen](https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian/) (so wie es z.B. Freifunk HH es anbietet)
