@@ -52,4 +52,6 @@ How to covid. Was tun, wenn man zuhause sitzt?
 ## Videomeetings
 * [Freifunk Hamburg](https://twitter.com/FreifunkHH) bietet einen kostenlosen [Videokonferenzdienst](https://jitsi.hamburg.freifunk.net/) an
 * [Cisco Webex](https://help.webex.com/de-de/n80v1rcb/Cisco-Webex-Available-Free-in-These-Countries-COVID-19-Response)
-* [Videomeeting selbst aufsetzen](https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian/) (so wie es z.B. Freifunk HH es anbietet)
+* jitsi Videokonferenzdienst selbst aufsetzen
+  * [Debian](https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian/)
+  * [Ubuntu 18-4-lts](https://www.vultr.com/docs/how-to-install-jitsi-meet-on-ubuntu-18-04-lts)
