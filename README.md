@@ -44,8 +44,7 @@ How to covid. Was tun, wenn man zuhause sitzt?
 ----
 
 ## Mobilfunkanbieter
-* Wahrscheinlich nicht für Deutschland - Klärung steht aus
-  * [Telekom 14.03. für die nächsten 60 Tage](https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response)
+* Telekom: 10GB extra pro Monat bis auf weiteres und Disney+ 6 Monate *kostenlos*. [Bitte selbst hier nachlesen](http://telekom.de/wir-verbinden)
 
 ----
 
