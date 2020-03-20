@@ -17,6 +17,7 @@ How to covid. Was tun, wenn man zuhause sitzt?
 
 ## Kinder
 * [Ohrka: 80 Stunden Hörspiele und Co. kostenlos zum Anhören und als Download](https://www.ohrka.de/)
+* Englisch: [Astronauts on the space station read stories to you](https://storytimefromspace.com/library/)
 
 ----
 
@@ -54,3 +55,6 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * jitsi Videokonferenzdienst selbst aufsetzen
   * [Debian](https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian/)
   * [Ubuntu 18-4-lts](https://www.vultr.com/docs/how-to-install-jitsi-meet-on-ubuntu-18-04-lts)
+
+## Alles Mist heute?
+* [Dance like nobody's watching - because noboby is](https://youtu.be/HLbKBifZoc8)
