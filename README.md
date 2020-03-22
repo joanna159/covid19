@@ -34,7 +34,11 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Pornhub schenkt Leuten aus Italien vorerst einen kostenlosen Premium Account
   * Alles weitere findet ihr selbst raus. ;)
 * [Online spielen](https://twitter.com/JackPackTV/status/1239199850924781568)
+* [Montagsmaler online](https://skribbl.io/)
 * Igor Levit streamt jeden Abend ab ca. 18-19 Uhr live ein [Konzert](https://twitter.com/igorpianist) per Twitter Livestream
+* Die [Bayerische Staatsoper](https://www.staatsoper.de/stream/) bietet einiges an
+  * Live und kostenlos: [Montagskonzerte](www.staatsoper.tv) ab 23. März 20.15 Uhr
+* Die Münchner Kammerspiele stellen jeden Tag, 24 Stunden lang, [den internen Mitschnitt einer Inszenierung](https://www.muenchner-kammerspiele.de) aus dem Spielplan online.
 * Dienstags & Donnerstags um 19 Uhr, 1/2 Stunde lang [Online-Vortragreihe Faszination Astronomie Online](https://www.youtube.com/watch?v=ztvg7jjSBrI)
   * http://www.haus-der-astronomie.de/faszi-astro-online
   * https://twitter.com/HdAstro
@@ -42,6 +46,8 @@ How to covid. Was tun, wenn man zuhause sitzt?
 * Onlinebibliotheken (Ggf. könnte es gerade schwierig sein sich jetzt einen Ausweis erstellen zu lassen)
   * https://twitter.com/Pertsch/status/1239205809831239680
   
+ ## Sport
+ * [fitnessloft](https://fitnessloft.de/gesundbleiben/) bietet Onlinekurse und Livekurse auf [Instagram](https://www.instagram.com/fitnessloft_deutschland/) und [Youtube](https://www.youtube.com/channel/UC5O0A8UBygINTw3lDt1XZdw) an
 ----
 
 ## Mobilfunkanbieter
