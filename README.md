@@ -21,6 +21,12 @@ How to covid. Was tun, wenn man zuhause sitzt?
 
 ----
 
+## Helfen
+* Erntehelfer werden dringend gebraucht, [hier](https://www.blhv.de/bauer-sucht-hilfe) sind einige Seiten verlinkt
+  * Am übersichtlichsten erscheint mir [diese](https://www.daslandhilft.de)
+
+----
+
 ## Mitmachen
 * Beatmungsgeräte
   * https://www.replacing-luck.de/ -> https://www.respi.de
