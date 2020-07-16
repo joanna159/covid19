@@ -3,6 +3,15 @@ How to covid. Was tun, wenn man zuhause sitzt?
 
 * [Wenn ihr stattdessen Informationen zu Covid-19, seinen Auswirkungen usw. sucht, dann findet ihr hier viele Informationen](https://github.com/cwoomi/cert-covid19)
 * [Tipps_haeusliche_Quarantaene](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Tipps_%20haeusliche_Quarantaene.pdf?__blob=publicationFile)
+* Wichtige Info-Telefonnummern
+  * Bürger-Hotlines zum Coronavirus vom Bundesgesundheitsministerium:
+    * 0800 / 011 77 22 (Unabhängige Patientenberatung)
+    * 030 / 346 465 100 (BMG)
+    * 115 – Allgemeine Erstinformation und Kontaktvermittlung (Behördennummer) www.115.de
+  * Beratungsservice zum Coronavirus für Gehörlose:
+    * Faxnummer: 030 340 60 66 07
+    * Per Mail: info.deaf@bmg.bund.de oder info.gehoerlos@bmg.bund.de
+    * Über Video mit dem Gebärdentelefon unter gebaerdentelefon.de/bmg/
 
 ## Lernen
 * [Auf Scienceblogs haben sich schon andere Mühe gemacht etwas zusammenzustellen](http://scienceblogs.de/meertext/2020/03/16/corona-homeschooling-link-sammlung-und-ideen-fuer-unterrichtsersatz-zu-hause/)
