@@ -14,6 +14,7 @@ How to covid. Was tun, wenn man zuhause sitzt?
     * Über Video mit dem Gebärdentelefon unter gebaerdentelefon.de/bmg/
 
 ## Lernen
+* [Wissensangebot der ARD Mediathek](https://www.ardmediathek.de/ard/sammlung/lernsendungen-fuer-kinder/6rs0p1xO9X4ZHddVLBl0iR/)
 * [Auf Scienceblogs haben sich schon andere Mühe gemacht etwas zusammenzustellen](http://scienceblogs.de/meertext/2020/03/16/corona-homeschooling-link-sammlung-und-ideen-fuer-unterrichtsersatz-zu-hause/)
 * Schenkt Schülerinnen und Schülern [Duden Lernattack](https://learnattack.de/corona) für 2 Monate (Bis zum 31.03.2020 gültig.)
 * [Kleiner Schulplan](https://twitter.com/hessophanes_/status/1239099719441428480)
